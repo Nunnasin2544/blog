@@ -1,0 +1,22 @@
+.post-title {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding: 30px;
+    color: white;
+}
+
+.div-center {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.div-center label {
+    width: 150px;
+    color: white;
+}
+
+.add-image {
+    margin-left: 150px;
+}

@@ -1,0 +1,29 @@
+.title-deg {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding: 30px;
+    color: white;
+}
+
+.table-deg {
+    border: 1px solid white;
+    width: 80%;
+    text-align: center;
+    margin-left: 120px;
+    justify-content: center;
+    align-items: center;
+}
+
+.th-deg {
+    background-color: rgb(35, 175, 230);
+    color: white;
+}
+
+.img-deg {
+    width: 150px;
+    height: 100px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+}
